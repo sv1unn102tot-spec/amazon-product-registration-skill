@@ -1,0 +1,10 @@
+.DS_Store
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.tsv
+*.zip
+.env
+secrets.*
+credentials.*
