@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon商品登録"
+  short_description: "Amazon Japanの商品登録・一括登録・バリエーションを支援"
+  default_prompt: "Amazon Japanの商品登録データを確認し、確定値・推定値・未確認項目を分けて登録準備を進めてください。"
